@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "versionchecker",
+  "version": "${version}",
+
+  "name": "versionchecker",
+  "description": "versionchecker",
+  "authors": [
+    "Skyfy16"
+  ],
+  "contact": {},
+
+  "license": "MIT",
+  "icon": "assets/version_checker/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ch.skyfy.versionchecker.VersionChecker"
+    ],
+    "client": [
+      "ch.skyfy.versionchecker.VersionCheckerClient"
+    ]
+  },
+  "mixins": [
+    "versionchecker.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
