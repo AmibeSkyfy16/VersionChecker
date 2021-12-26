@@ -1,6 +1,4 @@
-# VersionChecker
-
-## Basic
+## Descriptions
 This mod does something very simple.
 It will ban players from the server who do not play with the correct version of the modpack
   
