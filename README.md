@@ -7,7 +7,7 @@ You will have to manually specify the version of your modpack as well as the ser
 
 this is a short tutorial
 
-[![Watch the video]](https://youtu.be/uI6pMWkJtpg)
+[![Watch the video]](https://i9.ytimg.com/vi/uI6pMWkJtpg/mq2.jpg?sqp=CIyMoI4G&rs=AOn4CLADCMeEWseMA5ZLmkWVlDpJsVUKxg)(https://youtu.be/uI6pMWkJtpg)
 
 
 https://youtu.be/uI6pMWkJtpg
