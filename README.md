@@ -8,5 +8,5 @@ You will have to manually specify the version of your modpack as well as the ser
 
 this is a short tutorial
 
-[![Alternate Text]({https://img-19.ccm2.net/cI8qqj-finfDcmx6jMK6Vr-krEw=/1500x/smart/b829396acc244fd484c5ddcdcb2b08f3/ccmcms-commentcamarche/20494859.jpg})]({https://youtu.be/uI6pMWkJtpg} "Link Title")
+[![Tutorial](https://res.cloudinary.com/marcomontalbano/image/upload/v1640776013/video_to_markdown/images/youtube--uI6pMWkJtpg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/uI6pMWkJtpg "Tutorial")
 
